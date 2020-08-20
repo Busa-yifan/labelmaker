@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Python_environment/pycharm_project/python35/numpy_1/.idea/numpy_1.iml" filepath="D:/Python_environment/pycharm_project/python35/numpy_1/.idea/numpy_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/win_labelImg.iml" filepath="$PROJECT_DIR$/.idea/win_labelImg.iml" />
+    </modules>
+  </component>
+</project>

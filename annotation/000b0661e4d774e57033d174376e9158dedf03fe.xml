@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<annotatoin>
+<object>
+<name>boy</name>
+<bndbox>
+<xmin>10</xmin>
+<ymin>106</ymin>
+<xmax>282</xmax>
+<ymax>688</ymax>
+</bndbox>
+</object>
+<object>
+<name>boy</name>
+<bndbox>
+<xmin>734</xmin>
+<ymin>85</ymin>
+<xmax>960</xmax>
+<ymax>720</ymax>
+</bndbox>
+</object>
+</annotatoin>
